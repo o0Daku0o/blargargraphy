@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+
+body{
+    font-family: 'Orbitron';
+}
+
+table, th, tr, td{
+    border: 1px solid;
+    text-align: left;
+}
